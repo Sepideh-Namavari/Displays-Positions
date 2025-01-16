@@ -1,0 +1,8 @@
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+p {background-color: rgb(24, 176, 223); position: sticky;
+top: 5px;
+}
+div{ overflow-y: scroll;}
