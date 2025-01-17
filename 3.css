@@ -2,7 +2,7 @@
 padding: 0;
 box-sizing: border-box;}
 
-p {background-color: rgb(24, 176, 223); position: sticky;
-top: 5px;
+p {padding: 5px; background-color: rgb(24, 176, 223); position: sticky;
+top: 5px; margin-left: 5px;
 }
-div{ overflow-y: scroll;}
+div{ padding: 5px;margin-left: 5px; height: 50rem;}
