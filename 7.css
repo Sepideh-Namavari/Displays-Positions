@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flower{ position: relative; margin-left: 50vw;
+  margin-top: 175px;
+}
+.petaltl{position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-top-right-radius: 100%;
+  border-bottom-left-radius: 100%;
+}
+ 
+.petaltr{position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-top-left-radius: 100%;
+  border-bottom-right-radius: 100%;
+  margin-left: 100px;
+}
+
+.petaldl{position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-top-left-radius: 100%;
+  border-bottom-right-radius: 100%;
+  margin-top: 100px;
+}
+
+.petaldr{position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-top-right-radius: 100%;
+  border-bottom-left-radius: 100%;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.center{position: absolute;
+width: 30px;
+height: 30px;
+border-radius: 50%;
+background-color: yellow;
+margin-top: 85px;
+margin-left: 85px;
+}
+
+.stem{position: absolute;
+width: 10px;
+height: 350px;
+background-color: green;
+margin-top: 115px;
+margin-left: 95px;
+}
+
+.leaf{position: absolute;
+  width: 80px;
+  height: 80px;
+  background-color:rgb(21, 188, 21);
+  border-top-right-radius: 100%;
+  border-bottom-left-radius: 100%;
+margin-top: 280px;
+margin-left: 15px;
+}
