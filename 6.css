@@ -2,4 +2,18 @@
 padding: 0;
 box-sizing: border-box;}
 
-img{ width: 100vw; height: 100vh;}
+body{
+    background-color: rgb(2, 2, 60);}
+
+.moon{position: relative; margin-top: 30vh;
+    margin-left: 40vw;
+    width: 200px; height: 200px; 
+    background-color: white;
+    border-radius: 50%;
+ }
+ .shade{position: absolute; bottom: 10%; right: 10%;
+width: 200px; height: 200px;
+background-color:  rgb(2, 2, 60);
+border-radius: 50%;
+
+}
