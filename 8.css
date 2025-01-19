@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.chess {
+  position: relative; margin-top: 80px;
+  margin-left: 35vw;
+}
+#b1 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+#w2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-left: 100px;
+}
+
+#b3 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-left: 200px;
+}
+
+#w4 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-left: 300px;
+}
+
+#b5 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-left: 400px;
+}
+#w6 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 100px;
+}
+#b7 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+#w8 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 100px;
+  margin-left: 200px;
+}
+#b9 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-top: 100px;
+  margin-left: 300px;
+}
+#w10 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 100px;
+  margin-left: 400px;
+}
+#b11 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-top: 200px;
+}
+#w12 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 200px;
+  margin-left: 100px;
+}
+#b13 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+#w14 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 200px;
+  margin-left: 300px;
+}
+#b15 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-top: 200px;
+  margin-left: 400px;
+}
+#w16 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 300px;
+}
+#b17 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-top: 300px;
+  margin-left: 100px;
+}
+#w18 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 300px;
+  margin-left: 200px;
+}
+#b19 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-top: 300px;
+  margin-left: 300px;
+}
+#w20 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 300px;
+  margin-left: 400px;
+}
+#b21 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-top: 400px;
+}
+#w22 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 216, 216);
+  margin-top: 400px;
+  margin-left: 100px;
+}
+#b23 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-top: 400px;
+    margin-left: 200px;
+  }
+  #w24 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(221, 216, 216);
+    margin-top: 400px;
+    margin-left: 300px;
+  }
+  #b25 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-top: 400px;
+    margin-left: 400px;
+  }

@@ -1,0 +1,380 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heart {
+  position: relative;
+  margin-top: 30vh;
+  margin-left: 45vw;
+}
+
+#a1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-left: 2rem;
+}
+#a2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-left: 4rem;
+}
+#a3 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-left: 12rem;
+}
+#a4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-left: 14rem;
+}
+#b1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 2rem;
+}
+#b2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+#b3 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
+#b4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 2rem;
+  margin-left: 6rem;
+}
+#b5 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 2rem;
+  margin-left: 10rem;
+}
+#b6 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 2rem;
+  margin-left: 12rem;
+}
+#b7 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 2rem;
+  margin-left: 14rem;
+}
+#b8 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 2rem;
+  margin-left: 16rem;
+}
+#c1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+}
+#c1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+}
+#c2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+  margin-left: 2rem;
+}
+#c3 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+  margin-left: 4rem;
+}
+#c4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+  margin-left: 6rem;
+}
+#c5 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+  margin-left: 8rem;
+}
+#c6 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+  margin-left: 10rem;
+}
+#c7 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+  margin-left: 12rem;
+}
+#c8 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+  margin-left: 14rem;
+}
+#c9 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 4rem;
+  margin-left: 16rem;
+}
+
+#d1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+}
+#d2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+  margin-left: 2rem;
+}
+#d3 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+  margin-left: 4rem;
+}
+#d4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+  margin-left: 6rem;
+}
+#d5 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+  margin-left: 8rem;
+}
+#d6 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+  margin-left: 10rem;
+}
+#d7 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+  margin-left: 12rem;
+}
+#d8 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+  margin-left: 14rem;
+}
+#d9 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 6rem;
+  margin-left: 16rem;
+}
+#e1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 8rem;
+  margin-left: 2rem;
+}
+#e2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 8rem;
+  margin-left: 4rem;
+}
+#e3 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 8rem;
+  margin-left: 6rem;
+}
+#e4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 8rem;
+  margin-left: 8rem;
+}
+#e5 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 8rem;
+  margin-left: 10rem;
+}
+#e6 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 8rem;
+  margin-left: 12rem;
+}
+#e7 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 8rem;
+  margin-left: 14rem;
+}
+#f1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 10rem;
+  margin-left: 4rem;
+}
+#f2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 10rem;
+  margin-left: 6rem;
+}
+#f3 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 10rem;
+  margin-left: 8rem;
+}
+#f4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 10rem;
+  margin-left: 10rem;
+}
+#f5 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 10rem;
+  margin-left: 12rem;
+}
+#g1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 12rem;
+  margin-left: 6rem;
+}
+#g2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 12rem;
+  margin-left: 8rem;
+}
+#g3 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 12rem;
+  margin-left: 10rem;
+}
+#h1 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin-top: 14rem;
+  margin-left: 8rem;
+}
